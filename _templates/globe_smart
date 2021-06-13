@@ -12,5 +12,9 @@ link2:
 
 Works with tuya-convert, no need to open it up.
 
-
+A week after sucessfully converting a numbber of these units the remaainder from the same purchase 
+would not convert due to newer firmware: Opening them (which is difficult but possible) allowed them
+to be converted. Lastest batch I purchased has WB2S module which is Arm Cortex-M4 based and not compatible
+but FCC ID numer and all other external markings are the same: Still bears FCC ID: 2AQUQGPTYWE2S even though 
+module is now a WB2S instead of TYWE2S.
 
